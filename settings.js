@@ -12,7 +12,22 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (𝙶𝚁𝚄𝙾𝙿 𝙻𝙸𝙽𝙺💉
+https://chat.whatsapp.com/EmBzcyhWNAwLyKNFkv6EGS
+
+🌟Main commands
+
+☛.alive(𝚃𝙾 𝚌𝚑𝚎𝚌𝚔 𝚒𝚏 𝚋𝚘𝚝 𝚘𝚗𝚕𝚒𝚗𝚎)
+
+☛.menu(𝚏𝚘𝚛 𝚊𝚕𝚕 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜)
+
+☛.song(𝚍𝚘𝚠𝚗𝚕𝚘𝚍𝚒𝚗𝚐 𝚜𝚘𝚗𝚐)
+
+☛.video (𝚍𝚘𝚠𝚗𝚕𝚘𝚍𝚒𝚗𝚐 𝚢𝚝 𝚟𝚒𝚍)
+
+☛.tiktok(𝚍𝚊𝚠𝚗𝚕𝚘𝚍𝚒𝚗𝚐 𝚝𝚒𝚔𝚝𝚘𝚔 𝚟𝚒𝚍)
+
+☛.fb(𝚍𝚘𝚠𝚗𝚕𝚘𝚍𝚒𝚗𝚐 𝚏𝚋 𝚟𝚒𝚍)`` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +44,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94741199471'] // owner number
+global.ownername = "...𝄁𝄄𝄇𝇕𝙼𝚁.𝙹𝙴𝚁𝚁𝚈🧬" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,11 +62,11 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94741199471']
+global.ownertag = '+94741199471' //your tag number
+global.botname = '...𝄁𝄄𝄇𝇕𝙼𝚁.𝙹𝙴𝚁𝚁𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳 𝙱𝙾𝚃' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "...𝄁𝄄𝄇𝇕𝙼𝚁.𝙹𝙴𝚁𝚁𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳 𝙱𝙾𝚃" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
